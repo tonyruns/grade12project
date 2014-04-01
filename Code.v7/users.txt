@@ -1,0 +1,158 @@
+13
+
+Admin
+9
+ham
+za
+hamza
+baksh
+m
+im hamza
+com sci
+7:00
+1:00
+
+Employee
+6
+c
+d
+c
+d
+m
+c
+d
+7:00
+9:00
+
+Employee
+1
+doggywoggy
+password
+Doggy
+Woggy
+F
+DoggyDogg yDoggy DoggyDoggyDoggyDoggyDo ggyDoggyDoggyDoggyDoggy DoggyDoggyDoggyDo ggyDoggyDogg yDoggyDoggyDo ggyDoggy Doggy Doggy Doggy
+Dogumentation
+3:30
+3:31
+
+Employee
+2
+a
+b
+a
+b
+m
+s
+Faculty
+2:30
+22:30
+
+Employee
+12
+Lice
+12345678
+dochebag
+Jiming
+F
+i like pie
+garbage man
+7:00
+9:00
+
+Admin
+8
+arber
+h
+arber
+hila
+m
+im arber
+com sci
+8:00
+12:00
+
+Admin
+3
+tj
+123
+Tony
+Jin
+m
+runner
+software
+8:00
+9:00
+
+Admin
+13
+IrisLam
+java
+Iris
+Lam
+F
+Im a teacher
+Computer Science teacher
+9:00
+16:00
+
+Admin
+11
+teacher
+lam
+iris
+lam
+f
+im ms lam
+com sci teacerh
+8:00
+16:00
+
+Admin
+5
+bob
+e
+bobby
+li
+m
+i like to argue
+student
+1:00
+2:00
+
+Employee
+11
+cat
+dog
+cat
+man
+f
+imma a cayt
+catt
+9:00
+6:00
+
+Employee
+4
+test
+rat
+test
+rat
+m
+tester
+test departmetn
+1:0
+23:0
+
+Employee
+10
+abs
+crew
+curtis
+wong
+m
+im a beast
+abscrew
+9:00
+6:00
+
